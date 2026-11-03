@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://toyjoygames.com
+
+# Sitemap
+Sitemap: https://toyjoygames.com/sitemap.xml
